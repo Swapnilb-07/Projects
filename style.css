@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(78, 78, 78);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body > h1 {
+    text-align: center;
+}
+body > h2 {
+    text-decoration:underline;
+    text-decoration-color: white;
+    font-size: 32px;
+}
+body div {
+    padding: 10px 15px;
+}
+h3 {
+    font-weight: 900;
+    font-size: 28px;
+}
+table,tr,td,th {
+    border: 1px solid white;
+    height: 10vh;
+    
+}
+table {
+    width: 100%;
+}
+h4 {
+    font-size: 24px;
+    text-decoration: underline;
+}
